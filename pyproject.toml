@@ -14,7 +14,9 @@ dependencies = [
   "beartype", 
   "taichi-nightly", 
   "tqdm", 
-  "tensordict"
+  "tensordict",
+  "opencv-python",
+  "packaging"
 ]
 
 
