@@ -1,8 +1,9 @@
---extra-index-url https://download.pytorch.org/whl/cu116
+--extra-index-url https://download.pytorch.org/whl/cu118
 torch
 torchvision
 torchaudio
-taichi
+--extra-index-url https://pypi.taichi.graphics/simple/ 
+taichi-nightly
 beartype
 tqdm
 opencv-python

@@ -12,7 +12,7 @@ maintainers = [
 
 dependencies = [
   "beartype", 
-  "taichi", 
+  "taichi-nightly", 
   "tqdm", 
   "tensordict",
   "opencv-python",
